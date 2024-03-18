@@ -1,0 +1,35 @@
+.box{
+  width: 500px;
+  height: 450px;
+  border-radius: 24px;
+  margin: 1em;
+  text-align: center;
+}
+
+.item-img{
+  width: 350px;
+}
+
+.main{
+  display: flex;
+  justify-content: center;
+}
+
+.tie{
+  border: 5px solid black;
+}
+.win{
+  border: 5px solid green;
+}
+.lose{
+  border: 5px solid red;
+}
+
+.game-title{
+  margin-top: 0.8em;
+  margin-bottom: 0.2em;
+}
+.game-state{
+  margin-top: 0.8em;
+  margin-bottom: 0.2em;
+}
